@@ -1,0 +1,27 @@
+{
+	"name": "mychat",
+	"version": "0.0.1",
+	"description": "This is my first backend project",
+	"main": "index.js",
+	"type": "module",
+	"repository": {
+		"type": "Git",
+		"url": "https://github.com/eZOZBEK36/mychat.git"
+	},
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"keywords": [
+		"node",
+		"nodejs",
+		"express",
+		"backend",
+		"socket.io",
+		"express js"
+	],
+	"author": "E'zozbek <ezozbekrasulov789@gmail.com>",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
